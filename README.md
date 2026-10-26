@@ -1,4 +1,4 @@
-<h1 align="center">Fernanda Coutinho</h1>
+<h1 align="center">Fernanda Coutinho Corrêa Calazans</h1>
 
 <p align="center">
   <strong>Engenharia Elétrica (UFES) · Técnica em Biotecnologia (IFES)</strong><br>
